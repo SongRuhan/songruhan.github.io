@@ -3,13 +3,8 @@ title: 唤潮之佑：e技能
 
 notitle: false
 
-description: |
+description: 娜美强化一位友方英雄的下3次普通攻击和技能，持续6秒，使其可以对目标造成持续1秒的（【15%/20%/25%/30%/35%】+0.05%【法术强度】）减速，并造成额外的（【20/30/40/50/60】+20％【法术强度】）魔法伤害。在强化群体技能时会对非英雄单位造成（33%-66%【随等级提升】）伤害。
 
-people:
-  - rong
-  - chenyan
-  - profx
-  - chenxi
 
 layout: project
 image: /img/people/e.webp
