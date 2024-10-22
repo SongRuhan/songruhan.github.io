@@ -1,10 +1,7 @@
 ---
-title: 反常水解反应 Abnormal hydrolysis of ions
+title: 怒涛之啸：r技能
 
 notitle: false
-
-description: |
-  纳米水团簇中的离子水解反应研究 Hydrolysis of ions in nanoscale water clusters: a mechanism study
 
 people:
   - han
@@ -15,11 +12,15 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/hydrolysis.png
-last-updated: 2020-01-23
+image: /img/people/r.webp
+last-updated: 2024-10-22
 ---
 
 ## 简介 Introduction
 
-我们通过结合全局结构搜索与量子化学计算，对不同水分子数量情况下碳酸根在纳米水团簇中水解的反应路径进行系统研究。发现水分子数量从1增加到6，碳酸根水解的能垒显著降低。该研究揭示了水分子对碳酸根在纳米水团簇中水解的催化效应。为设计高效率的CO2空气吸附剂提供了理论依据。
+娜美召唤一阵怒涛，击飞敌人0.5秒，减速敌人70%并造成（【150/250/350】+60%【法术强度】）魔法伤害。減速的持续时间会基于怒涛的行进距离而提升，至多持续4秒。
+被怒涛命中的友方英雄会获得踏浪之行的双信加速效果。
+减速的最小时长为2秒。
+法力消耗：100/100/100
+冷却时间（s）：120/110/100
 
