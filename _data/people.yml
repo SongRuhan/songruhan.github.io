@@ -5,7 +5,7 @@ Dilraba:
     display_name: "唤潮鲛姬娜美"
     github: songruhan
     role: faculty
-    image: img/people/Nami logo.jpg
+    image: img/logo2.jpg
     bio: 辅助 Support
     webpage: "https://101.qq.com/#/hero-detail?heroid=267&datatype=5v5&tab=overview&hero2_id=21"
 
@@ -37,7 +37,7 @@ alum-a:
 
     
 数值value:
-    display_name: "数值value"
+    display_name: "54攻击力,560生命值,0.64攻击速度,365魔法值,550攻击距离,335移动速度,29.0护甲值,30.0魔抗值(1级去除符文加成)"
     role: ugrad
     image: img/people/数值.jpg
     
@@ -52,5 +52,5 @@ ugrad-alum-b:
 
 
 背景故事Backstory:
-    display_name: "背景故事Backstory"
+    display_name: "娜美是一名强大年轻的瓦斯塔亚海族。当鲛人族与巨神族之间自古订立的契约被打破，她是第一个离开海洋、踏上陆地的人。她别无选择，只能挺身而出担此重任，完成神圣的仪式从而确保族人的安全。在这崭新时代的混乱浪潮中，娜美用无比的决心和无畏的斗志面对未知的明天，用手中的唤潮者之杖召唤来自海洋的力量"
     role: collab
