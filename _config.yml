@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 技能skill
+  - title: 技能 Skill
     link: /research.html
   - title: 皮肤 skin
     link: /publications.html
