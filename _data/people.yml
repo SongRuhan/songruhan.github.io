@@ -7,7 +7,7 @@ Dilraba:
     role: faculty
     image: img/people/Nami logo.jpg
     bio: 辅助 Support
-    webpage: "https://baike.baidu.com/item/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4/1180418"
+    webpage: "https://101.qq.com/#/hero-detail?heroid=267&datatype=5v5&tab=overview&hero2_id=21"
 
 scott:
     display_name: "Scott Summers"
@@ -24,10 +24,10 @@ wolverine:
     
 
     
-Tangyan:
-    display_name: "唐嫣 Tang Yan"
+基础Basic:
+    display_name: "基础Basic"
     role: grad
-    image: /img/people/ty.jpg
+    image: img/people/基础.jpg
 
 
 
@@ -36,10 +36,14 @@ alum-a:
     role: alum
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
-
-dianxing:
-    display_name: "地下城与勇士手游 Dungeon and warrior mobile game"
+背景故事Backstory:
+    display_name: "背景故事Backstory"
     role: collab
+    
+数值value:
+    display_name: "数值value"
+    role: collab
+    image: img/people/数值.jpg
     
 
 ugrad-alum-a:
