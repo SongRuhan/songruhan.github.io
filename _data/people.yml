@@ -22,7 +22,6 @@ wolverine:
     role: postdoc
 
     
-
     
 基础Basic:
     display_name: "基础Basic"
@@ -36,13 +35,10 @@ alum-a:
     role: alum
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
-背景故事Backstory:
-    display_name: "背景故事Backstory"
-    role: collab
     
 数值value:
     display_name: "数值value"
-    role: collab
+    role: ugrad
     image: img/people/数值.jpg
     
 
@@ -53,3 +49,8 @@ ugrad-alum-a:
 ugrad-alum-b:
     display_name: "Past Ugrad Student B With Long Name"
     role: ugrad-alum
+
+
+背景故事Backstory:
+    display_name: "背景故事Backstory"
+    role: collab
