@@ -3,13 +3,8 @@ title: 冲击之潮：w技能
 
 notitle: false
 
-description: |
+description: 娜美释放一股在友方英雄和敌方英雄之间交替弹跳的水流。每个目标只会被弹到一次，并且水流至多可弹3个目标。
 
-people:
-  - xiaoyang
-  - chenyan
-  - profx
-  - chenxi
 
 layout: project
 image: /img/people/w.webp
