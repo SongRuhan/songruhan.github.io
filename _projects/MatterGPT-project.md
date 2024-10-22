@@ -5,11 +5,6 @@ notitle: false
 
 description: |
 
-people:
-  - chenyan
-  - profx
-  - chenxi
-
 layout: project
 image: /img/people/被动.webp
 last-updated: 2024-10-22
