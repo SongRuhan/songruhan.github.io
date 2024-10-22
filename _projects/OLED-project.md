@@ -1,6 +1,5 @@
 ---
-title: 新型OLED材料的高通量量子化学预测与筛选 Discovery of new organic light-emitting diode (OLED) materials with high-throughput screening
-
+title: 碧波之牢：q技能
 notitle: false
 
 description: |
@@ -10,11 +9,14 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/oled.png
-last-updated: 2020-01-26
+image: /img/people/q.webp
+last-updated: 2024-10-22
 ---
 
 ## 简介 Introduction
 
-与国内一线OLED供应商合作，借助高通量量子化学计算及数据驱动方法，我们开展了新型OLED材料的预测研究。现在该项目正在研发中。
+娜美掷出一个泡泡，晕眩敌人1.5秒并造成
+（【90/145/200/255/310】+50%【法术强度】）魔法伤害。
+法力消耗：60/60/60/60/60
+REATE(s): 12/11/10/9/8
 
