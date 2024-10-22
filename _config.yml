@@ -12,11 +12,11 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 本人SHE
+    name: WHOS SHE?
   - key: grad
-    name: 基础Basic
+    name: 基础 Basic
   - key: ugrad
-    name: 数值Value
+    name: 数值 Value
   - key: collab
     name: 背景故事Backstory
 
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页Home
+  - title: 主页 Home
     link: /
-  - title: 技能Skill
+  - title: 技能 Skill
     link: /research.html
-  - title: 皮肤Skin
+  - title: 皮肤 Skin
     link: /publications.html
