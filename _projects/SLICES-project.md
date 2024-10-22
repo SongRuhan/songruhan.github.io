@@ -1,5 +1,5 @@
 ---
-title:唤潮之佑：e技能
+title: 唤潮之佑：e技能
 
 notitle: false
 
