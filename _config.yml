@@ -14,11 +14,11 @@ roles:
   - key: faculty
     name: 本人SHE
   - key: grad
-    name: 基础 basic
+    name: 基础Basic
   - key: ugrad
-    name: 数值 value
+    name: 数值Value
   - key: collab
-    name: 背景故事 backstory
+    name: 背景故事Backstory
 
 
 # Number of news stories on the front page.
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 主页Home
     link: /
-  - title: 技能 Skill
+  - title: 技能Skill
     link: /research.html
-  - title: 皮肤 skin
+  - title: 皮肤Skin
     link: /publications.html
