@@ -11,8 +11,8 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/MatterGPT.jpg
-last-updated: 2024-08-08
+image: /img/people/被动.webp
+last-updated: 2024-10-22
 ---
 
 ## 简介 Introduction
