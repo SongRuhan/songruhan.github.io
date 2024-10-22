@@ -12,7 +12,7 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/2d.png
+image: /img/people/w.webp
 last-updated: 2024-10-22
 ---
 
