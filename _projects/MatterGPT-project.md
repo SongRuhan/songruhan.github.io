@@ -1,5 +1,5 @@
 ---
-title: MatterGPT:a GPT2-based large language model for multi-property inverse design of crystal structures.
+title: 踏浪之行:被动技能
 
 notitle: false
 
@@ -18,8 +18,5 @@ link: https://arxiv.org/abs/2408.07608
 
 ## 简介 Introduction
 Features
-Inverse Design from Properties to Structures: Input target band gap and formation energy to generate crystal structures that match these properties.
-SLICES Encoding: Utilizes SLICES (Simplified Line-Input Crystal-Encoding System) encoding to represent crystal structures.
-Visualization: Generated structures can be intuitively presented through 3D visualization.
-Structure Analysis: Provides detailed information about the generated structures, including chemical formula, lattice parameters, etc.
-CIF File Export: Download Crystallographic Information Files (CIF) of generated structures for further analysis and use.
+每当娜美的技能命中友方英雄时，他们都会获得
+(100+25%【法术强度])移动速度，在1.5秒里持续衰减。
