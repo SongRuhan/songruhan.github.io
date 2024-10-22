@@ -13,7 +13,6 @@ people:
 layout: project
 image: /img/projects/MatterGPT.jpg
 last-updated: 2024-08-08
-link: https://arxiv.org/abs/2408.07608
 ---
 
 ## 简介 Introduction
