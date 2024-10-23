@@ -2,7 +2,7 @@
 title: 碧波之牢：q技能
 notitle: false
 
-description: 娜美掷出一个泡泡，晕眩敌人1.5秒并造成（【90/145/200/255/310】+50%【法术强度】）魔法伤害
+description: 娜美掷出一个泡泡，晕眩敌人1.5秒并造成魔法伤害
 
 
 layout: project
